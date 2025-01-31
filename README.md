@@ -21,6 +21,11 @@ Con este código podrás:
 - 🔹 Calcular los ratios financieros más importantes para analizar la salud financiera de una empresa.
 - 🔹 Comparar diferentes métricas para evaluar desempeño y riesgo.
 
+### 4. **Precio de Compra.ipynb**  
+Este notebook permite:  
+- 🔹 Aplicar **análisis técnico** para identificar el mejor precio de compra de una acción o ETF.  
+- 🔹 Evaluar indicadores como medias móviles, RSI y Fibonacci, etc.
+
 ---
 
 ## ⚙️ Requisitos
