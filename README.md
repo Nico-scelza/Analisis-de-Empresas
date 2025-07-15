@@ -50,6 +50,21 @@ Para utilizar este repositorio, necesitarás:
 
 ---
 
+## 🆕 Updates
+
+### 📅 15/07/2025 - Incorporación de "Análisis de Portafolio"
+Se ha agregado un nuevo notebook al repositorio: `Analisis de Portafolio.ipynb`.
+
+Este módulo permite:
+- 🔹 Calcular la volatilidad (riesgo) individual y del portafolio.
+- 🔹 Consultar el beta de cada activo.
+- 🔹 Analizar la matriz de correlación entre activos.
+- 🔹 Estimar la volatilidad anual del portafolio completo.
+
+Esta herramienta es útil para evaluar el desempeño agregado de una cartera de inversión y entender su sensibilidad al mercado.
+
+---
+
 ## 👨‍💼 Autor
 
 Este proyecto fue desarrollado por **Nicolás Scelza**. Si tienes preguntas, comentarios o sugerencias, no dudes en abrir un issue en el repositorio.
