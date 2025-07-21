@@ -63,6 +63,18 @@ Este módulo permite:
 
 Esta herramienta es útil para evaluar el desempeño agregado de una cartera de inversión y entender su sensibilidad al mercado.
 
+### 📅 21/07/2025 - Incorporación de "Riesgo por Activo"
+Se ha agregado un nuevo notebook al repositorio que permite realizar un análisis detallado de la volatilidad y riesgo sistemático de una acción en relación con su índice de mercado.
+
+Este módulo permite:
+- 🔹 Extraer datos históricos diarios no ajustados de precios de una acción y su índice de referencia.
+- 🔹 Calcular el desvío estándar (volatilidad) diario de la acción.
+- 🔹 Determinar la covarianza y el coeficiente de correlación entre la acción y el índice.
+- 🔹 Calcular el beta de la acción respecto al índice, clave para medir riesgo sistemático.
+- 🔹 Evaluar la varianza mensual promedio de los retornos como indicador adicional de riesgo.
+
+Esta herramienta complementa el análisis fundamental y de valuación con métricas clave para una evaluación más completa del riesgo financiero.
+
 ---
 
 ## 👨‍💼 Autor
